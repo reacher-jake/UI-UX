@@ -1,0 +1,202 @@
+[27-Apr-2025 01:29:36 Europe/Berlin] PHP Fatal error:  Cannot redeclare unique_id() (previously declared in C:\xampp\htdocs\online_tutor_website\register.php:17) in C:\xampp\htdocs\online_tutor_website\components\connect.php on line 16
+[27-Apr-2025 01:29:38 Europe/Berlin] PHP Fatal error:  Cannot redeclare unique_id() (previously declared in C:\xampp\htdocs\online_tutor_website\register.php:17) in C:\xampp\htdocs\online_tutor_website\components\connect.php on line 16
+[27-Apr-2025 01:29:55 Europe/Berlin] PHP Fatal error:  Cannot redeclare unique_id() (previously declared in C:\xampp\htdocs\online_tutor_website\register.php:17) in C:\xampp\htdocs\online_tutor_website\components\connect.php on line 16
+[27-Apr-2025 01:34:23 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 30
+[27-Apr-2025 01:34:23 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 69
+[27-Apr-2025 01:35:10 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\online_tutor_website\register.php on line 17
+[27-Apr-2025 01:35:10 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\online_tutor_website\register.php on line 19
+[27-Apr-2025 01:35:10 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\online_tutor_website\register.php on line 20
+[27-Apr-2025 01:35:10 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 30
+[27-Apr-2025 01:35:10 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 69
+[27-Apr-2025 01:35:26 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\online_tutor_website\login.php on line 19
+[27-Apr-2025 01:35:26 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 30
+[27-Apr-2025 01:35:26 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 69
+[27-Apr-2025 01:35:26 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, string given in C:\xampp\htdocs\online_tutor_website\login.php on line 85
+[27-Apr-2025 12:01:10 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 30
+[27-Apr-2025 12:01:10 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 69
+[27-Apr-2025 12:27:22 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 30
+[27-Apr-2025 12:27:22 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 69
+[27-Apr-2025 12:27:23 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 30
+[27-Apr-2025 12:27:23 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 69
+[27-Apr-2025 12:27:26 Europe/Berlin] PHP Fatal error:  Cannot redeclare unique_id() (previously declared in C:\xampp\htdocs\online_tutor_website\register.php:17) in C:\xampp\htdocs\online_tutor_website\components\connect.php on line 16
+[27-Apr-2025 12:33:41 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 30
+[27-Apr-2025 12:33:41 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 69
+[27-Apr-2025 12:35:00 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 30
+[27-Apr-2025 12:35:00 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 69
+[28-Apr-2025 12:50:27 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 30
+[28-Apr-2025 12:50:27 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 69
+[28-Apr-2025 12:50:30 Europe/Berlin] PHP Fatal error:  Cannot redeclare unique_id() (previously declared in C:\xampp\htdocs\online_tutor_website\register.php:17) in C:\xampp\htdocs\online_tutor_website\components\connect.php on line 16
+[28-Apr-2025 12:50:33 Europe/Berlin] PHP Fatal error:  Cannot redeclare unique_id() (previously declared in C:\xampp\htdocs\online_tutor_website\register.php:17) in C:\xampp\htdocs\online_tutor_website\components\connect.php on line 16
+[28-Apr-2025 12:50:40 Europe/Berlin] PHP Fatal error:  Cannot redeclare unique_id() (previously declared in C:\xampp\htdocs\online_tutor_website\register.php:17) in C:\xampp\htdocs\online_tutor_website\components\connect.php on line 16
+[28-Apr-2025 12:52:21 Europe/Berlin] PHP Fatal error:  Cannot redeclare unique_id() (previously declared in C:\xampp\htdocs\online_tutor_website\register.php:17) in C:\xampp\htdocs\online_tutor_website\components\connect.php on line 16
+[28-Apr-2025 12:52:22 Europe/Berlin] PHP Fatal error:  Cannot redeclare unique_id() (previously declared in C:\xampp\htdocs\online_tutor_website\register.php:17) in C:\xampp\htdocs\online_tutor_website\components\connect.php on line 16
+[28-Apr-2025 12:52:25 Europe/Berlin] PHP Fatal error:  Cannot redeclare unique_id() (previously declared in C:\xampp\htdocs\online_tutor_website\register.php:17) in C:\xampp\htdocs\online_tutor_website\components\connect.php on line 16
+[28-Apr-2025 12:54:02 Europe/Berlin] No form submission detected
+[28-Apr-2025 12:54:02 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 30
+[28-Apr-2025 12:54:02 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 69
+[28-Apr-2025 12:54:27 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\online_tutor_website\register.php on line 17
+[28-Apr-2025 12:54:27 Europe/Berlin] Registration attempt: email=rich@student.com
+[28-Apr-2025 12:54:27 Europe/Berlin] Registered user: rich@student.com, hash length: 60
+[28-Apr-2025 12:54:27 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 30
+[28-Apr-2025 12:54:27 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 69
+[28-Apr-2025 12:54:45 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 30
+[28-Apr-2025 12:54:45 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 69
+[28-Apr-2025 12:54:45 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, string given in C:\xampp\htdocs\online_tutor_website\login.php on line 87
+[28-Apr-2025 12:55:23 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 30
+[28-Apr-2025 12:55:23 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 69
+[28-Apr-2025 13:05:18 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 30
+[28-Apr-2025 13:05:18 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 69
+[28-Apr-2025 13:05:19 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 30
+[28-Apr-2025 13:05:19 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 69
+[28-Apr-2025 13:05:20 Europe/Berlin] No form submission detected
+[28-Apr-2025 13:05:20 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 30
+[28-Apr-2025 13:05:20 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 69
+[28-Apr-2025 13:05:21 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 30
+[28-Apr-2025 13:05:21 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 69
+[28-Apr-2025 13:25:43 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 30
+[28-Apr-2025 13:25:43 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 69
+[28-Apr-2025 13:35:55 Europe/Berlin] Password verification failed for email: kip@student.com, input length: 8
+[28-Apr-2025 13:35:55 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 30
+[28-Apr-2025 13:35:55 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 69
+[28-Apr-2025 13:35:55 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, string given in C:\xampp\htdocs\online_tutor_website\login.php on line 87
+[28-Apr-2025 13:36:08 Europe/Berlin] No account found for email: admin2@admin.com
+[28-Apr-2025 13:36:08 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 30
+[28-Apr-2025 13:36:08 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 69
+[28-Apr-2025 13:36:08 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, string given in C:\xampp\htdocs\online_tutor_website\login.php on line 87
+[28-Apr-2025 13:36:14 Europe/Berlin] No form submission detected
+[28-Apr-2025 13:36:14 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 30
+[28-Apr-2025 13:36:14 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 69
+[28-Apr-2025 13:36:39 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\online_tutor_website\register.php on line 17
+[28-Apr-2025 13:36:39 Europe/Berlin] Registration attempt: email=reacer1617@example.com
+[28-Apr-2025 13:36:40 Europe/Berlin] Registered user: reacer1617@example.com, hash length: 60
+[28-Apr-2025 13:36:40 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 30
+[28-Apr-2025 13:36:40 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 69
+[28-Apr-2025 13:36:46 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 30
+[28-Apr-2025 13:36:46 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 69
+[28-Apr-2025 13:36:46 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, string given in C:\xampp\htdocs\online_tutor_website\login.php on line 87
+[28-Apr-2025 13:42:02 Europe/Berlin] Login attempt: email=reacer1617@example.com
+[28-Apr-2025 13:42:02 Europe/Berlin] Login failed: User account pending approval for email=reacer1617@example.com
+[28-Apr-2025 13:42:02 Europe/Berlin] Message state before rendering: array (
+  0 => 'Your account is pending approval!',
+)
+[28-Apr-2025 13:42:02 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 30
+[28-Apr-2025 13:42:02 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 69
+[28-Apr-2025 13:42:13 Europe/Berlin] Login attempt: email=reacer1617@example.com
+[28-Apr-2025 13:42:13 Europe/Berlin] Login failed: User account pending approval for email=reacer1617@example.com
+[28-Apr-2025 13:42:13 Europe/Berlin] Message state before rendering: array (
+  0 => 'Your account is pending approval!',
+)
+[28-Apr-2025 13:42:13 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 30
+[28-Apr-2025 13:42:13 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 69
+[28-Apr-2025 13:42:21 Europe/Berlin] Login attempt: email=reacer1617@example.com
+[28-Apr-2025 13:42:21 Europe/Berlin] Login failed: User account pending approval for email=reacer1617@example.com
+[28-Apr-2025 13:42:21 Europe/Berlin] Message state before rendering: array (
+  0 => 'Your account is pending approval!',
+)
+[28-Apr-2025 13:42:21 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 30
+[28-Apr-2025 13:42:21 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 69
+[28-Apr-2025 14:11:39 Europe/Berlin] Message state before rendering: array (
+)
+[28-Apr-2025 14:11:39 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 30
+[28-Apr-2025 14:11:39 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\online_tutor_website\components\user_header.php on line 69
+[29-Apr-2025 01:15:33 Europe/Berlin] Message state before rendering: array (
+)
+[29-Apr-2025 01:15:33 Europe/Berlin] PHP Fatal error:  Cannot redeclare unique_id() (previously declared in C:\xampp\htdocs\online_tutor_website\components\connect.php:17) in C:\xampp\htdocs\online_tutor_website\components\connect.php on line 17
+[29-Apr-2025 01:17:01 Europe/Berlin] Message state before rendering: array (
+)
+[29-Apr-2025 01:17:20 Europe/Berlin] Login attempt: email=jacob@student.com
+[29-Apr-2025 01:17:20 Europe/Berlin] No account found for email: jacob@student.com
+[29-Apr-2025 01:17:20 Europe/Berlin] Message state before rendering: array (
+  0 => 'No account found with this email!',
+)
+[29-Apr-2025 01:17:23 Europe/Berlin] No form submission detected
+[29-Apr-2025 01:17:42 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\online_tutor_website\register.php on line 17
+[29-Apr-2025 01:17:42 Europe/Berlin] Registration attempt: email=reacer1617@example.com
+[29-Apr-2025 01:17:42 Europe/Berlin] Validation failed: Email already registered: reacer1617@example.com
+[29-Apr-2025 01:17:47 Europe/Berlin] Message state before rendering: array (
+)
+[29-Apr-2025 01:17:53 Europe/Berlin] Login attempt: email=reacer1617@example.com
+[29-Apr-2025 01:17:53 Europe/Berlin] Password verification failed for user email: reacer1617@example.com, input length: 9
+[29-Apr-2025 01:17:53 Europe/Berlin] Message state before rendering: array (
+  0 => 'Incorrect password!',
+)
+[29-Apr-2025 01:18:00 Europe/Berlin] No form submission detected
+[29-Apr-2025 01:18:20 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\online_tutor_website\register.php on line 17
+[29-Apr-2025 01:18:20 Europe/Berlin] Registration attempt: email=bsclmr161722@spu.ac.ke
+[29-Apr-2025 01:18:20 Europe/Berlin] Registered user: bsclmr161722@spu.ac.ke, hash length: 60
+[29-Apr-2025 01:18:20 Europe/Berlin] Message state before rendering: array (
+)
+[29-Apr-2025 01:18:32 Europe/Berlin] Login attempt: email=bsclmr161722@spu.ac.ke
+[29-Apr-2025 01:18:32 Europe/Berlin] Login failed: User account pending approval for email=bsclmr161722@spu.ac.ke
+[29-Apr-2025 01:18:32 Europe/Berlin] Message state before rendering: array (
+  0 => 'Your account is pending approval!',
+)
+[29-Apr-2025 01:18:44 Europe/Berlin] Login attempt: email=bsclmr161722@spu.ac.ke
+[29-Apr-2025 01:19:19 Europe/Berlin] Message state before rendering: array (
+)
+[29-Apr-2025 01:19:27 Europe/Berlin] Login attempt: email=jacob@student.com
+[29-Apr-2025 01:19:27 Europe/Berlin] No account found for email: jacob@student.com
+[29-Apr-2025 01:19:27 Europe/Berlin] Message state before rendering: array (
+  0 => 'No account found with this email!',
+)
+[29-Apr-2025 01:19:31 Europe/Berlin] Login attempt: email=bsclmr161722@spu.ac.ke
+[29-Apr-2025 01:23:41 Europe/Berlin] No form submission detected
+[29-Apr-2025 01:25:03 Europe/Berlin] Login attempt: email=jacob@student.com
+[29-Apr-2025 01:25:03 Europe/Berlin] No account found for email: jacob@student.com
+[29-Apr-2025 01:25:03 Europe/Berlin] Message state before rendering: array (
+  0 => 'No account found with this email!',
+)
+[29-Apr-2025 01:25:14 Europe/Berlin] Login attempt: email=admin21@example.com
+[29-Apr-2025 14:58:10 Europe/Berlin] Message state before rendering: array (
+)
+[29-Apr-2025 14:58:18 Europe/Berlin] Login attempt: email=admin21@example.com
+[29-Apr-2025 15:00:19 Europe/Berlin] Message state before rendering: array (
+)
+[29-Apr-2025 15:00:23 Europe/Berlin] Message state before rendering: array (
+)
+[29-Apr-2025 15:00:36 Europe/Berlin] Login attempt: email=admin21@example.com
+[29-Apr-2025 16:31:45 Europe/Berlin] Login attempt: email=admin21@example.com
+[29-Apr-2025 16:31:45 Europe/Berlin] PHP Warning:  Undefined variable $message in C:\xampp\htdocs\online_tutor_website\profile.php on line 102
+[29-Apr-2025 16:31:45 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\online_tutor_website\profile.php on line 102
+[29-Apr-2025 16:51:29 Europe/Berlin] PHP Warning:  Undefined variable $message in C:\xampp\htdocs\online_tutor_website\profile.php on line 102
+[29-Apr-2025 16:51:29 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\online_tutor_website\profile.php on line 102
+[29-Apr-2025 16:51:30 Europe/Berlin] PHP Warning:  Undefined variable $message in C:\xampp\htdocs\online_tutor_website\profile.php on line 102
+[29-Apr-2025 16:51:30 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\online_tutor_website\profile.php on line 102
+[29-Apr-2025 17:09:11 Europe/Berlin] PHP Warning:  Undefined variable $message in C:\xampp\htdocs\online_tutor_website\profile.php on line 102
+[29-Apr-2025 17:09:11 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\online_tutor_website\profile.php on line 102
+[29-Apr-2025 17:09:46 Europe/Berlin] Login attempt: email=bsclmr161722@spu.ac.ke
+[29-Apr-2025 17:09:46 Europe/Berlin] PHP Warning:  Undefined variable $message in C:\xampp\htdocs\online_tutor_website\profile.php on line 102
+[29-Apr-2025 17:09:46 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\online_tutor_website\profile.php on line 102
+[29-Apr-2025 17:11:40 Europe/Berlin] PHP Warning:  Undefined variable $message in C:\xampp\htdocs\online_tutor_website\profile.php on line 102
+[29-Apr-2025 17:11:40 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\online_tutor_website\profile.php on line 102
+[29-Apr-2025 19:40:33 Europe/Berlin] Login attempt: email=bsclmr161722@spu.ac.ke
+[29-Apr-2025 19:40:33 Europe/Berlin] PHP Warning:  Undefined variable $message in C:\xampp\htdocs\online_tutor_website\profile.php on line 102
+[29-Apr-2025 19:40:33 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\online_tutor_website\profile.php on line 102
+[29-Apr-2025 19:48:19 Europe/Berlin] Login attempt: email=bsclmr161722@spu.ac.ke
+[29-Apr-2025 19:49:27 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\online_tutor_website\register.php on line 22
+[29-Apr-2025 19:49:27 Europe/Berlin] Registration attempt: email=richard@example.com
+[29-Apr-2025 19:49:27 Europe/Berlin] Registered user: richard@example.com
+[29-Apr-2025 19:49:40 Europe/Berlin] Login attempt: email=richard@example.com
+[29-Apr-2025 19:49:41 Europe/Berlin] Login failed: User account pending approval for email=richard@example.com
+[29-Apr-2025 19:50:27 Europe/Berlin] Login attempt: email=richard@example.com
+[30-Apr-2025 09:14:35 Europe/Berlin] Login attempt: email=jacob@student.com
+[30-Apr-2025 09:14:35 Europe/Berlin] No account found for email: jacob@student.com
+[30-Apr-2025 09:14:40 Europe/Berlin] Login attempt: email=kip@student.com
+[30-Apr-2025 09:14:40 Europe/Berlin] Password verification failed for user email: kip@student.com
+[30-Apr-2025 09:24:01 Europe/Berlin] Login attempt: email=kip@student.com, role=
+[30-Apr-2025 09:24:01 Europe/Berlin] Validation failed: Missing fields for email=kip@student.com
+[30-Apr-2025 09:24:18 Europe/Berlin] Login attempt: email=richard@example.com, role=student
+[30-Apr-2025 09:24:18 Europe/Berlin] Password verification failed for user email: richard@example.com
+[30-Apr-2025 09:25:03 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\online_tutor_website\register.php on line 22
+[30-Apr-2025 09:25:03 Europe/Berlin] Registration attempt: email=reacer1617@example.com
+[30-Apr-2025 09:25:04 Europe/Berlin] Registered user: reacer1617@example.com
+[30-Apr-2025 09:25:14 Europe/Berlin] Login attempt: email=reacer1617@example.com, role=student
+[30-Apr-2025 09:25:14 Europe/Berlin] Login failed: User account pending approval for email=reacer1617@example.com
+[30-Apr-2025 09:41:04 Europe/Berlin] Login attempt: email=reacer1617@example.com, role=student
+[30-Apr-2025 09:41:04 Europe/Berlin] Login failed: User account pending approval for email=reacer1617@example.com
+[30-Apr-2025 10:04:56 Europe/Berlin] Login attempt: email=admin2@exampl, role=tutor
+[30-Apr-2025 10:04:56 Europe/Berlin] Password verification failed for tutor email: admin2@exampl
+[30-Apr-2025 11:49:15 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\online_tutor_website\register.php on line 22
+[30-Apr-2025 11:49:15 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\online_tutor_website\register.php on line 27
+[30-Apr-2025 11:49:15 Europe/Berlin] Registration attempt: email=reacher@student.com, role=student
+[30-Apr-2025 11:49:15 Europe/Berlin] Registered student: reacher@student.com
